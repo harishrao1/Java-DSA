@@ -1,12 +1,12 @@
 public class Invertedpyramid {
     
-    Input--> n= 5;
+//     Input--> n= 5;
     
-    output-->       *
-                    * *
-                    * * *
-                    * * * *
-                    * * * * * 
+//     output-->       *
+//                     * *
+//                     * * *
+//                     * * * *
+//                     * * * * * 
     public static void main(String[] args) {
         Scanner sc = Scanner(System.in);
         int n = sc.nextInt();
