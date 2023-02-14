@@ -13,8 +13,7 @@ class GFG {
 
 		int n = arr.length;
 		
-      System.out.println("Minimum difference is "
-						+ findMinDiff(arr, n, m));
+      System.out.println("Minimum difference is "+ findMinDiff(arr, n, m));
 	}
 
   
