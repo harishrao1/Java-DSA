@@ -93,8 +93,11 @@ class GFG
     }
  }
 
+    
 
-(1) See what we have get(min or max)
-(2) Identify the search space (possible values we can have)
-(3) See if conditions 
-(4) Identify if increase in val will satisfy conditions and optimize or decrease in val will do so, then based on that apply binary search
+// painter partition problem,, agressive cows
+
+// (1) See what we have get(min or max)
+// (2) Identify the search space (possible values we can have)
+// (3) See if conditions 
+// (4) Identify if increase in val will satisfy conditions and optimize or decrease in val will do so, then based on that apply binary search
